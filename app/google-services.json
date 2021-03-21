@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527359133920",
+    "firebase_url": "https://chatapp-7c928.firebaseio.com",
+    "project_id": "chatapp-7c928",
+    "storage_bucket": "chatapp-7c928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527359133920:android:57351a1d5ef25f0ea1a885",
+        "android_client_info": {
+          "package_name": "com.example.felzchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527359133920-e8mcaibbo2ih343jkhr20ikt3e4vv2hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felzchat",
+            "certificate_hash": "4a003833e1731b659ebb19373673ecc67794aa2a"
+          }
+        },
+        {
+          "client_id": "527359133920-ua6vh657ctvo7qkgb2bgpfir68mtsp4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KQ7t9gN2MVKwcxxVyi5ss4bUcNqI7v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527359133920-ua6vh657ctvo7qkgb2bgpfir68mtsp4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
